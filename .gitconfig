@@ -1,0 +1,28 @@
+[credential]
+	helper = store
+[user]
+	email = nmwachholz@gmail.com
+	name = n-wach
+[alias]
+	st = status
+	s = status
+	br = branch
+	dfs = diff --staged
+	l = log --oneline -n 10
+	a = add
+	aa = add -A
+	c = commit
+	cm = commit -m
+	amend = commit --amend --no-edit
+	edit = commit --amend
+	nb = checkout -b
+	co = checkout
+	sh = stash
+	sp = stash pop
+	rs = reset
+	p = push
+	pl = pull
+	pp = push --set-upstream origin HEAD
+	hide = update-index --assume-unchanged
+	unhide = update-index --no-asume-unchanged
+
