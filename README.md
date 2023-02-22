@@ -12,3 +12,5 @@
 [`apt install bat`](https://github.com/sharkdp/bat)
 
 [`cargo install starship --locked`](https://starship.rs/guide/)
+
+Install [`UbuntuMono Nerd Font`](https://www.nerdfonts.com/font-downloads)
