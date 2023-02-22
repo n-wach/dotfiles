@@ -14,3 +14,15 @@
 [`cargo install starship --locked`](https://starship.rs/guide/)
 
 Install [`UbuntuMono Nerd Font`](https://www.nerdfonts.com/font-downloads)
+
+
+```bash
+# Jetbrains
+snap install --classic clion
+snap install --classic pycharm-professional
+snap install --classic webstorm
+
+snap install --classic gimp
+snap install --classic slack
+snap install --classic spotify
+```
