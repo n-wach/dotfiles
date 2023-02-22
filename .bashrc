@@ -113,11 +113,9 @@ fi
 
 export PATH="/tools/Xilinx/Vivado/2019.1/bin:$PATH"
 
-. "$HOME/.cargo/env"
+eval "$(starship init bash)"
 
 function aws () {
     /usr/bin/aws --endpoint-url http://ec2.poc.aristotle.ucsb.edu:443 --no-paginate --no-verify-ssl ${@}
 }
 export -f aws
-
-
