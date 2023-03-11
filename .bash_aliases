@@ -3,7 +3,7 @@ alias ls='exa'
 alias find='fdfind'
 alias du='dust'
 alias df='duf'
-alias top='bottom'
+alias top='btm'
 alias cat='batcat'
 
 # shortcuts
